@@ -1,0 +1,3 @@
+#!/bin/bash
+water=$WATER
+stir=$STIR
